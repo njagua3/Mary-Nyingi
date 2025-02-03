@@ -280,7 +280,7 @@ function App() {
               {/* Project 1 */}
               <div className="bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden shadow-lg transform hover:scale-105 transition-transform duration-300" data-aos="fade-up">
                 <img 
-                  src="https://images.unsplash.com/photo-1565939974240-455e0a2afd0a?auto=format&fit=crop&q=80&w=1000" 
+                  src="https://plus.unsplash.com/premium_photo-1682144502406-80e8eb7e6747?q=80&w=1806&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80&w=1000" 
                   alt="EABL Automation Project"
                   className="w-full h-48 object-cover"
                   loading="lazy"
