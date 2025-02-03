@@ -32,19 +32,17 @@ A modern, responsive portfolio website for Mary Nyingi, a Mechanical Engineer an
 ## 📦 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mary-nyingi-portfolio.git
-   ```
+  
 
 2. Install dependencies:
-   ```bash
+  
    npm install
-   ```
+   
 
 3. Start the development server:
-   ```bash
+   
    npm run dev
-   ```
+  
 
 ## 🛠️ Development
 
@@ -92,22 +90,6 @@ A modern, responsive portfolio website for Mary Nyingi, a Mechanical Engineer an
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## 📝 License
-
-MIT License
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a pull request
-
-## 📞 Contact
-
-For any queries or suggestions, please reach out to [contact@marynyingi.com](mailto:contact@marynyingi.com)
 
 ## 🙏 Acknowledgments
 
