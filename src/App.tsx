@@ -7,7 +7,6 @@ import {
   Compass, 
   Cpu, 
   Download, 
-  Github, 
   Instagram,
   Linkedin, 
   Mail,
@@ -417,9 +416,7 @@ function App() {
                 <a href="mailto:contact@marynyingi.com" className="hover:text-red-400 transition duration-300">
                   <Mail className="w-6 h-6" />
                 </a>
-                <a href="#" className="hover:text-gray-400 transition duration-300">
-                  <Github className="w-6 h-6" />
-                </a>
+            
               </div>
             </div>
             <div className="border-t border-gray-800 mt-8 pt-8 text-center">
