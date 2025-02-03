@@ -24,3 +24,12 @@ dist-ssr
 *.sw?
 index.html
 node_modules
+eslint.config.js
+package.json
+package-lock.json
+tailwind.config.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts 
+postcss.config.js
